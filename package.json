@@ -1,5 +1,5 @@
 {
-  "name": "fuse-native",
+  "name": "@tiddo/fuse-native",
   "version": "2.2.6",
   "description": "Fully maintained fuse bindings for Node that aims to cover the entire FUSE api",
   "main": "index.js",
@@ -28,12 +28,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fuse-friends/fuse-native.git"
+    "url": "https://github.com/TiddoLangerak/fuse-native.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fuse-friends/fuse-native/issues"
+    "url": "https://github.com/TiddoLangerak/fuse-native/issues"
   },
-  "homepage": "https://github.com/fuse-friends/fuse-native"
+  "homepage": "https://github.com/TiddoLangerak/fuse-native"
 }
